@@ -1,8 +1,7 @@
 from tkinter import *
 from tkinter import messagebox, ttk
 root = Tk()
-root.title("LA Project")
-root.iconbitmap("bitmap.ico")
+root.title("Game")
 root.configure(bg="#BCF5A9")
 root.geometry("225x190")
 b = [[2,2,0],[1,1,0],[2,0,1]]
